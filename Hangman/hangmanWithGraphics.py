@@ -1,5 +1,6 @@
 """
-The hangman game
+The hangman game with graphics
+
 """
 
 import random as r
